@@ -8,7 +8,9 @@ tools:
     # A list of nodes to load into the editor
     # The path is either relative to the root or a full URL
     nodes:
-      - https://raw.githubusercontent.com/TimVanMourik/keras/giraffe-tools/keras_nodes.json
+      #- https://raw.githubusercontent.com/TimVanMourik/keras/giraffe-tools/keras_nodes.json
+      #
+      - GIRAFFE/keras_nodes.json
     # You can load your own JavaScript code generator. Documentation will follow soon
     # The path is either relative to the root or a full URL
     grammars:
